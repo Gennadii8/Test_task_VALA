@@ -1,0 +1,9 @@
+10:
+3:
+5:3 4 
+10:6 9 
+40:6 7 12 14 18 21 24 28 30 35 36 
+40:4 5 8 10 12 15 16 20 24 25 28 30 32 35 36 
+1 6 - the number of elements in this row is not equal to 3
+4 6 hhh - some elements in the string are not integers
+4 6 8 9 10 - the number of elements in this row is not equal to 3
