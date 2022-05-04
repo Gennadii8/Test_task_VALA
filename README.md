@@ -43,7 +43,6 @@ code is visually and logically understandable.
 create file with this name or rewrite file with this name)
 * Checks that there are 3 numbers in every line of file
 * Checks that all three elements in row are integers
-In this case I was opening input file, took info out of it, 
 
 ## Prepared files ##
 * 666.txt - duplicated 3rd numbers, less than needed numbers, 
