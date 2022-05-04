@@ -61,3 +61,10 @@ more than needed numbers, letters instead of numbers
 ## Spent time ##
 I did this program in one day with pauses - real working time about 4 hours.  
 I hope that everything is clear. If you have any questions, please email me.
+
+## Why did I choose this task? ##
+In Library1 and PrimeNumbers I need to create a UI. 
+I didn't create such Python programs (but I think it's not difficult) - I could 
+create a micro-project on Django, but I would have to spend more 
+time explaining how to run it. Therefore, I decided not to take these two tasks. 
+I chose at random between the other two, they are almost identical in essence. 
