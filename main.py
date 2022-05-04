@@ -65,7 +65,7 @@ def make_calculations(input_doc):
 
             # Check amount of numbers, if != 3, copy this line in list of broken lines
             if len(list_of_line_symbols) != 3:
-                output_error_0 = f"{line.strip()} - the number of elements in this row is not equal to 3"
+                output_error_0 = f"{line.strip()} - the number of elements in this line is not equal to 3"
                 list_of_broken_lines.append(output_error_0)
             else:
                 # Check that all numbers are integers, if not copy this line in list of broken lines
@@ -73,7 +73,7 @@ def make_calculations(input_doc):
                     numbers_list = [int(list_of_line_symbols[0]), int(list_of_line_symbols[1])]
                     limit = int(list_of_line_symbols[2])
                 except ValueError:
-                    output_error_1 = f"{line.strip()} - some elements in the string are not integers"
+                    output_error_1 = f"{line.strip()} - some elements in the line are not integers"
                     list_of_broken_lines.append(output_error_1)
                     continue
 
